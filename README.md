@@ -1,2 +1,2 @@
-# To-declare-define-and-usage-of-a-variable
-To understand the declaration,definition and usage of a variable.
+# To-perform-all-comparison-operators
+Program to understand all the comparison operators in C language
