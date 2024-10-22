@@ -1,2 +1,2 @@
-# To-perform-all-comparison-operators
-Program to understand all the comparison operators in C language
+# To-perform-the bitwise AND,OR,XOR operators.
+Program to understand the bitwise operators in C language.
