@@ -1,2 +1,2 @@
-# To-perform-all-arithmetic-operations
-Program to understand various arithmetic operations using C language
+# To-perform-all-logical-operations
+To understand the basic concept of logical operators used in C language.
