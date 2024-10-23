@@ -1,2 +1,2 @@
-# To-perform-the ternary  operator.
-Program to understand the ternary operator  in C language.
+# To-print-Hello-world-using-C-language
+It's a basic program that help us to understand the syntax of C language
