@@ -1,2 +1,2 @@
-# To-perform-all-logical-operations
-To understand the basic concept of logical operators used in C language.
+# To-declare-define-and-usage-of-a-variable
+To understand the declaration,defination and usage of a varaible.
