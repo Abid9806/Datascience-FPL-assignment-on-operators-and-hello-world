@@ -1,0 +1,48 @@
+ #include <studio.h>
+int main()
+{
+    int i=2;
+    int j=14;
+    int s;
+    int a;
+    int b;
+    int c;
+    int d;
+    int e;
+    int f;
+
+
+    
+    s=i+j;
+    printf("Addition=%d\n",s);
+
+    a=i*j;
+    printf("Multiplication=%d\n",a);
+
+
+
+    b=j-i;
+    printf("Subtraction=%d\n",b);
+
+
+    c=j/i;
+    printf("Division=%d\n",c);
+
+
+    d=j%i;
+    printf("Modulus=%d\n",d);
+
+
+    e=++j;
+    printf("Increment=%d\n",e);
+
+
+    f=--i;
+    printf("Decrement=%d\n",f);
+
+
+    return 0;
+}
+
+
+       
