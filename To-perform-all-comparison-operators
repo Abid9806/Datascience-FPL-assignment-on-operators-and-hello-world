@@ -1,0 +1,43 @@
+#include <stdio.h>
+
+int main()
+{
+    int x=14;
+    int y=14;
+    int z=15;
+    int a;
+    int b;
+    int c;
+    int d;
+    int e;
+    int f;
+
+
+    a=x==y;
+    printf("%d\n",a);
+
+
+    b=x!=z;
+    printf("%d\n",b);
+
+
+    c=z>x;
+    printf("%d\n",c);
+
+
+    d=x<z;
+    printf("%d\n",d);
+
+
+    e=z>=x;
+    printf("%d\n",e);
+
+
+    f=x<=z;
+    printf("%d\n",f);
+
+
+    return 0;
+
+}
+
