@@ -1,0 +1,21 @@
+#include <studio.h>
+int main()
+{
+    int i;
+    int j;
+    int k;
+    
+    
+    
+    i=9;
+    j=10;
+    
+    
+    
+    k=i+j;
+    
+    print("%d\n",k);
+    
+    
+    return 0;
+}
